@@ -8,6 +8,7 @@ function global_var() {
 }
 
   global_var();
-  
+
+  echo "variable num inside function $num";
   echo "variable num inside function $num";
 ?>
